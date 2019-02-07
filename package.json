@@ -16,7 +16,7 @@
     "node": ">= 4.1.0"
   },
   "dependencies": {
-    "babel": "5.8.23",
+    "babel": "6.0.0",
     "co": "4.6.0",
     "cookies-js": "1.2.1",
     "es5-shim": "4.1.11",
@@ -28,7 +28,7 @@
     "koa-csrf": "2.3.0",
     "koa-session": "3.3.1",
     "koa-static": "1.4.9",
-    "lodash": "3.10.1",
+    "lodash": "4.17.11",
     "moment": "2.10.6",
     "react": "0.13.3",
     "reddit-text-js": "0.5.5",
